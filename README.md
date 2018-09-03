@@ -3,9 +3,12 @@
 The repository contains the spring cloud enabled file upload-download services developed with springboot.
 
 **Functional capabilities:**
-1. A simple password-based authentication.
+1. A simple password-based authentication
 2. A Restful service to accept file upload
 3. A Restful service to download file requested
+
+
+With externalized configurations
 
 Technology stack used: Spring Boot, Spring Cloud, Java, Maven, Spring Security (Basic username, password authentication)
 
